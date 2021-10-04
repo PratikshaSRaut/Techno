@@ -69,7 +69,7 @@ a {
 
 .nav-item:hover {
   background-color: orange;
-  color: black;
+/*   color: black; */
 }
 
 .banner {
