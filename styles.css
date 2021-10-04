@@ -11,10 +11,7 @@ a {
   color: white;
 }
 
-/* .link:hover {
-  color: black;
-}
- */
+
 /* Header */
 
 .header {
@@ -68,8 +65,7 @@ a {
 }
 
 .nav-item:hover {
-  background-color: orange;
-/*   color: black; */
+  background-color: rgba(255, 115, 0, 1);
 }
 
 .banner {
